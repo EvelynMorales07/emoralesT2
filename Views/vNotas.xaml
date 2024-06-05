@@ -43,11 +43,11 @@
             <Entry x:Name="txtDato3"
                 Placeholder="Ingrese dato 1"
                 Keyboard="Numeric"
-                MaxLength="4"/>
+                MaxLength="3"/>
             <Entry x:Name="txtDato4"
                 Placeholder="Ingrese dato 2"
                 Keyboard="Numeric"
-                MaxLength="4"/>
+                MaxLength="3"/>
 
             <DatePicker x:Name="dpFecha" Format="MM/dd/yyyy">
 
